@@ -1,9 +1,11 @@
 # php-poc
 
-#### Sobre esse repositório
+[www.sharebook.com.br](www.sharebook.com.br)
 
-- Não eh bonito. Eh go-horse mesmo.
+#### Sobre esse repositÃ³rio
+
+- NÃ£o eh bonito. Eh go-horse mesmo.
 - Apenas uma prova de conceito.
-- Não eh o nosso projeto oficial.
+- NÃ£o eh o nosso projeto oficial.
 - Vai ajudar a levantar requisitos.
-- Já vai atender uma demanda urgente de doadores e pessoas que precisam.
+- JÃ¡ vai atender uma demanda urgente de doadores e pessoas que precisam.
