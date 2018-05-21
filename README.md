@@ -1,6 +1,6 @@
 # php-poc
 
-[www.sharebook.com.br](www.sharebook.com.br)
+[www.sharebook.com.br](http://www.sharebook.com.br)
 
 #### Sobre esse repositório
 
