@@ -71,7 +71,7 @@
 		
 	  }
 	  </script>
-        <input name="tx_url_modelo" type="hidden" value="http://sharebook.wservices.srv.br/doe_livro_modelo.htm" />
+        <input name="tx_url_modelo" type="hidden" value="http://www.sharebook.com.br/doe_livro_modelo.htm" />
         <input name="tx_email_destino" type="hidden" id="tx_email_destino" value="" />
         <br />
       </p>
